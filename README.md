@@ -24,6 +24,7 @@
 ```cmd
 create your virtual environment
 pip install -r requirements.txt  or also after creating your virtual environment install them manually ↴ 🐼
+
 ↪ pip install aiohttp async-timeout attrs chardet discord discord.py idna multidict typing_extensions yarl youtube-dl
 ```
 ## ⚙️ Configuration
@@ -40,10 +41,11 @@ for example ```-p youtube link```
 Join (-join)  
 Leave (-leave)  
 Play (-p)  
-Show Queued Songs (-queue)  
+Show Queued Songs (-queue)  soon
 Skip Song (-skip)  
 Pause (-pause)  
 Resume (-resume)   
+shuffle (-shuffle)
 Show Discord Bot ping (-ping)  
 Clear queue (-clear)
 
