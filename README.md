@@ -12,11 +12,11 @@
 
 ## Requirements
 1. Discord Bot Token [LINK](https://discord.com/developers/applications)  
-1.2 Click on New Application.
-1.3 Enter the application's name.
-1.4 Click on Bot on the left side settings menu.
-1.5 Click Add Bot and confirm with Yes, do it!.
-1.6. Enable 'Message Content Intent' in Discord Developer Portal   
+ →1.2 Click on New Application.
+ →1.3 Enter the application's name.
+ →1.4 Click on Bot on the left side settings menu.
+ →1.5 Click Add Bot and confirm with Yes, do it!.
+ →1.6. Enable 'Message Content Intent' in Discord Developer Portal   
 2. Python3  
 3. pip package installer  
 
