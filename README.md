@@ -42,6 +42,7 @@ Join (-join)
 Leave (-leave)  
 Play (-p)  
 soon Show Queued Songs (-queue)
+
 Skip Song (-skip)  
 Pause (-pause)  
 Resume (-resume)   
