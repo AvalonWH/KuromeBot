@@ -10,7 +10,7 @@
 
 <p align="center">
 
-## Requirements ![a]()
+## Requirements
 1. Discord Bot Token [LINK](https://discord.com/developers/applications)  
 1.2 Click on New Application.
 1.3 Enter the application's name.
