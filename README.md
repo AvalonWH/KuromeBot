@@ -35,7 +35,7 @@ note that the important thing is that there is a token for the bot to turn on.
  ```☛ Never commit or share your token or api keys publicly ```
 
  ## 🐻 Features & Commands  
-🎵 El bot es capaz de reproducir musica de youtube via url
+🎵 Bot is able to play music from youtube via url
 for example ```-p youtube link```
 
 Join (-join)  
